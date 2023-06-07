@@ -1,0 +1,58 @@
+.main-div{
+   display: flex;
+   flex-direction: column;
+   align-items: flex-end;
+}
+.main-div-from{
+    height: 100%;
+    width: 35%;
+    box-sizing: border-box;
+    padding: 1%;
+    box-shadow: 2px 2px 2px 5px bisque;
+    background-color: aquamarine;
+}
+.full-name{
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 2%;
+}
+.Name-input input{
+    width: 95%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 1px solid black;
+    font-size: 18px;
+    letter-spacing: 2px;
+    background-color: aquamarine;
+    padding: 2%;
+}
+.dropdown-div{
+    display: flex;
+    flex-direction: row;
+    padding: 2%;
+    font-size: 18px;
+    letter-spacing: 2px;
+}
+.Description{
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 2%;
+}
+.Description-Text-Area{
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 2%;
+    background-color: aquamarine;
+}
+.user-image{
+    font-size: 18px;
+    letter-spacing: 2px;
+    padding: 2%;
+    display: flex; 
+}
+.btn-submit{
+    text-align: right;
+    margin-right: 2%;
+}

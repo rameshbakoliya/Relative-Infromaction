@@ -1,0 +1,22 @@
+.add-btn{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    background-color: aqua;
+}
+.add-btn-div{
+    text-align: right;
+}
+.btn-Add-Relative{
+    background-color: lightgreen;
+    height: 20%;
+    width: 12%;
+    margin: 1%;
+    padding: 1%;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
